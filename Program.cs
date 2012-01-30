@@ -15,7 +15,7 @@ namespace Test_Application
             Console.WriteLine("Hello " + name);
             Console.ReadLine();
             // Keep the console window open in debug mode.
-            Console.WriteLine("Press any key to exit.");
+            Console.WriteLine("Press any key");
             
             Console.ReadKey();
         }
